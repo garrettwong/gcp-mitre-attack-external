@@ -1,4 +1,4 @@
-# Google Cloud Platform MITRE ATT&CK External Repository
+# GCP MITRE ATT&CK External Repository
 
 This repository consists of two primary directories, `scripts` and `gcp-audit-logs`.   The content is based on the fwd:cloudsec conference talk, [OH CR&P! I think we've been breached](https://fwdcloudsec.org/speakers.html#oh-crp) presented on September 13, 2021.
 
