@@ -1,0 +1,15 @@
+{
+  "name": "projects/996532272211/policies/compute.restrictCloudNATUsage",
+  "spec": {
+    "rules": [
+      {
+        "values": {
+          "allowedValues": [
+            "projects/mitre-secure/regions/us-central1/subnetworks/default",
+            "projects/mitre-secure/regions/us-east4/subnetworks/default"
+          ]
+        }
+      }
+    ]
+  }
+}

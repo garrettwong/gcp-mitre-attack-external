@@ -1,0 +1,10 @@
+{
+  "name": "projects/996532272211/policies/compute.vmExternalIpAccess",
+  "spec": {
+    "rules": [
+      {
+        "denyAll": true
+      }
+    ]
+  }
+}

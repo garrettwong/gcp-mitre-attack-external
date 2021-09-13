@@ -1,0 +1,10 @@
+{
+  "name": "projects/996532272211/policies/compute.requireOsLogin",
+  "spec": {
+    "rules": [
+      {
+        "enforce": true
+      }
+    ]
+  }
+}
